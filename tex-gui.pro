@@ -8,11 +8,13 @@ TARGET = tex-gui
 SOURCES += \
     main.cpp \
     mainwindow.cpp \
-    qledindicator.cpp
+    qledindicator.cpp \
+    server.cpp
 
 HEADERS += \
     mainwindow.h \
-    qledindicator.h
+    qledindicator.h \
+    server.h
 
 
 
